@@ -29,7 +29,7 @@ namespace SQLDatabase
             using (MySqlConnection mySqlConnection = new MySqlConnection("Server=sql11.freemysqlhosting.net;Database=sql11505376;User Id=sql11505376;Password=9T8D6rwd7Z;"))
             {
                 mySqlConnection.Open();
-                MessageBox.Show("OK");
+                MessageBox.Show("Connection Established");
               
             }
         }
