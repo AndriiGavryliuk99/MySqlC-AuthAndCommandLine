@@ -41,10 +41,10 @@ namespace SQLDatabase
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (richTextBox1.Lines[richTextBox1.Lines.Length - 1] == "/start") ;
+           /* if (richTextBox1.Lines[richTextBox1.Lines.Length - 1] == "/start") ;
             {
                 
-            }
+            } */
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
